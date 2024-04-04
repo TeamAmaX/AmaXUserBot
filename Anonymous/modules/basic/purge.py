@@ -3,7 +3,7 @@ from pyrogram.types import Message
 from pyrogram import Client, filters
 from Anonymous import app
 from Anonymous import SUDO_USER
-
+from Anonymous.modules.help import add_help_cmd
 
 @Client.on_message(
     filters.command(["purge"], ".") & (filters.me | filters.user(SUDO_USER))
@@ -76,3 +76,13 @@ async def delme(client: Client, message: Message):
         await client.delete_messages(message.chat.id, msg_ids)
     except Exception as e:
         await message.reply_text("`Something went wrong`")
+
+add_command_help(
+    "purge",
+    [
+        ["del", "to delete someone's message."],
+        ["purge", "reply to all messages from your replied."],
+        ["purgeme [count]", "to delete your messages only."],
+        ["pgm [count]", "to delete your messages only."]
+    ],
+)
