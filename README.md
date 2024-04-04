@@ -3,7 +3,7 @@
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="450"></a></p>
+<p align="center"><a href="https://t.me/TheAmaX"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="450"></a></p>
 <p align="center">
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
