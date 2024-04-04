@@ -2,7 +2,7 @@
 
 <p align="center"><b>ᗅ𝗆𝖺𝖷 𝖴𝗌𝖾𝗋𝖡𝗈𝗍</b></p>
 
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="450"></a></p>
 <p align="center">
 
 
