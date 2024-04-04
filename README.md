@@ -1,4 +1,6 @@
-<p> align="center"><b>ᗅ</b>𝗺𝗮𝗫 𝗨𝘀𝗲𝗿𝗕𝗼𝘁</p>
+<h1 align="center">
+<b>ᗅ</b>𝗺𝗮𝗫 𝗨𝘀𝗲𝗿𝗕𝗼𝘁</b>
+</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="450"></a></p>
