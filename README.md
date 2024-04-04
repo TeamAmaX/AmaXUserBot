@@ -70,7 +70,20 @@
     Be aware about these reasons and always be in safezone !
        Thank You For Choosing Us !
 ```
+━━━━━━━━━━━━━━━━━━━━
 
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/AmaXchats"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="center">
+<a href="https://t.me/TheAmaX"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+━━━━━━━━━━━━━━━━━━━━
 ## Credits 
 - TeamAmaX
 - Zaid (For global tools)
