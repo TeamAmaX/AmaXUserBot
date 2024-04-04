@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>ᗅ𝗆𝖺𝖷 𝖴𝗌𝖾𝗋𝖡𝗈𝗍</b>
+<b>ᗅ𝗆𝖺𝖷 𝖴𝗌𝖾𝗋𝖡𝗈𝗍 ⚡</b>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
