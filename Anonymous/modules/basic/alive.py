@@ -34,7 +34,6 @@ async def alive(client: Client, message: Message):
         f"⚡️ <b>Python Version :</b> <code>{python_version()}</code> \n"
         f"⚡️ <b>Pyrogram Version :</b> <code>{versipyro}</code> \n"
         f"⚡️ <b>Bot Uptime :</b> <code>{uptime}</code> \n\n"
-        f"    **📌 [𝗦𝘂𝗽𝗽𝗼𝗿𝘁](https://t.me/AmaXChats)** | **📌 [𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://t.me/TheAmaX)** | **📌 [𝗢𝘄𝗻𝗲𝗿](tg://user?id={client.me.id})**"
     )
     try:
         await asyncio.gather(
