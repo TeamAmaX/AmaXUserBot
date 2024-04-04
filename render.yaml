@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -U -r requirements.txt
     startCommand: python3 -m Anonymous
-    repo: https://github.com/AnoxDx/AnonymousUserBot      
+    repo: https://github.com/TeamAmaX/AmaXUserBot     
     branch: main
     envVars:
       - key: SUDO_USERS 
