@@ -1,15 +1,15 @@
 {
-    "name": "AnonymousUserBot",
-    "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
+    "name": "AmaXUserBot",
+    "description": "⚡Lite and fast UserBot with no id ban Security ⚡",
     "logo": "https://graph.org/file/2fea203f4d11f17edf7ce.jpg",
     "keywords": [
         "telegram",
         "userbot",
         "plugin",
         "pyrogram",
-        "Anonymous"
+        "AmaX"
     ],
-    "repository": "https://github.com/The-HellBot/HellBot/",
+    "repository": "https://github.com/TeamAmaX/AmaXUserBot",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
