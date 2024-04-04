@@ -11,7 +11,7 @@ from Anonymous.helper.Pyt import ReplyCheck
 from Anonymous.modules.help import add_help_cmd
 
 flood = {}
-profile_photo = "cache/pfp.jpg"
+profile_photo = "pfp.jpg"
 
 
 async def extract_userid(message, text: str):
