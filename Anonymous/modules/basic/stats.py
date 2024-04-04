@@ -3,6 +3,7 @@ from pyrogram.enums import ChatType
 from datetime import datetime
 from pyrogram import Client, enums, filters
 from pyrogram.types import Message
+from Anonymous.modules.help import add_help_cmd
 
 @Client.on_message(filters.command(["stats"], ".") & filters.me)
 async def stats(client: Client, message: Message):
@@ -47,3 +48,9 @@ async def stats(client: Client, message: Message):
 **Stats taken by [AmaX Userbot](https://github.com/AnoxDx/AnonymousUserBot)**""".format(client.me.mention(), ms, u, g, sg, c, b, a_chat), disable_web_page_preview=True)
 
 
+add_help_cmd(
+    "stats",
+    [
+        [".stats", "to get stats for your profile."]
+    ],
+)
