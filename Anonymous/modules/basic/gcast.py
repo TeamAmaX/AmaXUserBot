@@ -3,6 +3,8 @@ from pyrogram import Client, filters, enums
 from pyrogram.types import Message
 from pyrogram.errors import PeerIdInvalid
 from Anonymous import app, SUDO_USER
+from Anonymous.modules.help import *
+
 GROUP = [-1002060202794]
 XO = GROUP
 DEVS = [6154979500]
@@ -36,3 +38,9 @@ async def gcast(client: Client, message: Message):
         f"**Successfully Sent Message To** `{done}` **Groups, chat, Failed to Send Message To** `{error}` **Groups**"
     )
 
+add_help_cmd(
+    "gcast",
+    [
+        [".gcast", "To global cast something !\n**Usage**:\n ```.gcast <reply/message>```"]
+    ],
+)
