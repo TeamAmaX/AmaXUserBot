@@ -3,7 +3,7 @@ import asyncio
 from pyrogram.types import Message
 from pyrogram import Client, filters
 from Anonymous import app, SUDO_USER
-
+from Anonymous.modules.help import add_help_cmd
 
 
 @Client.on_message(filters.command("zombies", ".") & filters.me)
@@ -47,3 +47,11 @@ async def zombies(client: Client, message: Message):
         await  message.edit_text(f"Check `.help zombies` to see how it works !")
     else:
         await  message.edit_text("Something went wrong, please try again later !")
+
+add_help_cmd(
+    "zombies",
+    [
+        [".zombies", "to get deleted accounts count in chat."],
+        [".zombies clean", "to clean deleted accounts from chat."]
+    ],
+)
