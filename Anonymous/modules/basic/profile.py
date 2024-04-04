@@ -175,7 +175,6 @@ async def set_pfp(client: Client, message: Message):
         await sleep(3)
         await message.delete()
 
-
 @Client.on_message(
     filters.command(["vpfp"], ".") & (filters.me | filters.user(SUDO_USER))
 )
@@ -195,4 +194,5 @@ async def view_pfp(client: Client, message: Message):
     await message.delete()
     if os.path.exists(profile_photo):
         os.remove(profile_photo)
+
 
