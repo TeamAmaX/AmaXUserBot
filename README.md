@@ -17,18 +17,18 @@
 
 - Due to salesforce update, First fork this repo then deploy on Heroku :
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnoxDx/AnonymousUserBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAmaX/AmaXUserBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Render Deploy
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AnoxDx/AnonymousUserBot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TeamAmaX/AmaXUserBot)
 
 <details>
 <summary><h3>
 <b> VPS/Locally Deploy !</b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnoxDx/AnonymousUserBot/blob/master/config.py)
+- Get your [Necessary Variables](https://github.com/TeamAmaX/AmaXUserBot/blob/master/config.py)
 - Upgrade and Update by :
 `$ apt-get -y update`
 - Install required packages by :
