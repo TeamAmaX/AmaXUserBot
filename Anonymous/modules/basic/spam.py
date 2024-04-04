@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from Anonymous import SUDO_USER
 from Anonymous import app
-
+from Anonymous.modules.help import add_help_cmd
 
 @Client.on_message(filters.command(["spam"], ".") & (filters.me | filters.user(SUDO_USER)))
 async def spam_handler(client: Client, message: Message):
@@ -65,3 +65,13 @@ async def delayspam_handler(client: Client, message: Message):
                 await asyncio.sleep(sec)
         else:
             await message.edit_text("Something wrong in spam command !")
+
+add_help_cmd(
+    "spam",
+    [
+        [
+            ".spam [count]",
+            "Reply to message/sticker and define count of spam.",
+        ]
+    ],
+)
