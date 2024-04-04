@@ -1,3 +1,11 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"><b>ᗅ𝗆𝖺𝖷 𝖴𝗌𝖾𝗋𝖡𝗈𝗍</b></p>
+
+<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://graph.org/file/a6dfcc9511ac6a443fb45.jpg" width="300"></a></p>
+<p align="center">
+
+
 ## Requirements 
 
 - PyroGram Session
