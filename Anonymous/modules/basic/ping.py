@@ -4,7 +4,7 @@ from datetime import datetime
 from pyrogram.types import Message
 from Anonymous import app, SUDO_USER
 from pyrogram import Client, filters
-
+from Anonymous.modules.help import add_help_cmd
 
 @Client.on_message(filters.command(["ping"], ".") & (filters.me | filters.user(SUDO_USER)))
 async def ping(client: Client, message: Message):
@@ -35,3 +35,10 @@ async def ping(client: Client, message: Message):
                     pings.clear()
                 except Exception as e:
                     return await message.edit_text("Something went wrong in ping module.")
+
+add_help_cmd(
+    "ping",
+    [
+        [".ping", "To get ping status !\n**Usage**:\n ```.ping```"]
+    ],
+)
