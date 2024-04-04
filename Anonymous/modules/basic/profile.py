@@ -196,3 +196,17 @@ async def view_pfp(client: Client, message: Message):
         os.remove(profile_photo)
 
 
+add_command_help(
+    "profile",
+    [
+        ["block", "to block someone on telegram"],
+        ["unblock", "to unblock someone on telegram"],
+        ["setname", "set your profile name."],
+        ["setbio", "set an bio."],
+        [
+            "setpfp",
+            f"reply with image to set your profile pic.",
+        ],
+        ["vpfp", "Reply with video to set your video profile."],
+    ],
+)
