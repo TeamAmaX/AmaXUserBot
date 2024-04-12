@@ -45,9 +45,9 @@
 - Install required packages by :
 `$ apt-get -y install git gcc python3-pip -y`
 - Clone the repository by :
-`$ git clone https://github.com/AnoxDx/AnonymousUserBot`
+`$ git clone https://github.com/TeamAmaX/AmaXUserBot`
 - Get Up By :
-`$ cd AnonymousUserBot`
+`$ cd AmaXUserBot`
 - Install requirements by :
 `$ pip3 install -U -r requirements.txt`
 - Set Variables By :
