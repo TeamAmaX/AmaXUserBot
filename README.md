@@ -19,7 +19,7 @@
 
 - **Multiple Clients Userbot**
 - **First lite & Fast Version**
-- **Plug-Ins loaded more than 25(useful only)**
+- **Plug-Ins loaded more than 40(useful only)**
 - **Removal of non-sense Codes for fast loading**
 - **Specially Id safety increased**
 
